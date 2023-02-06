@@ -1,7 +1,7 @@
 
 # Clone UI Figma Jam
 
-Clonando a UI do Figma Jam utilizando React.
+Clone da UI do Figma Jam utilizando React.
 
 
 ## Dependências
