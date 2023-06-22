@@ -12,8 +12,6 @@ export function Square({ selected }: NodeProps) {
                         lineClassName="border-blue-400"
                         handleClassName="h-3 w-3 bg-white border-2 rounded border-blue-400"
                   />
-
-
                   <Handle 
                         id="right" 
                         type="source" 
